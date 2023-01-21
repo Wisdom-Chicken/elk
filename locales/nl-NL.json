@@ -226,7 +226,7 @@
           "title": "Welke notificaties wil je krijgen?"
         },
         "description": "Ontvang notificaties zelfs wanneer je elk niet gebruikt.",
-        "instructions": "Vergeet niet om je wijzigingen op te slaatn met de @:settings.notifications.push_notifications.save_settings knop!",
+        "instructions": "Vergeet niet om je wijzigingen op te slaan met de @:settings.notifications.push_notifications.save_settings knop!",
         "label": "Push notificaties instellingen",
         "policy": {
           "all": "Van iedereen",
@@ -290,7 +290,7 @@
     "editing": "Aanpassen",
     "loading": "Laden...",
     "upload_failed": "Upload mislukt",
-    "uploading": "Uploading..."
+    "uploading": "Uploaden..."
   },
   "status": {
     "edited": "Aangepast {0}",
